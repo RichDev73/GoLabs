@@ -1,2 +1,5 @@
-#TUTORIEL
-Ceci est un tutoriel pour apprendre git et Golang
+# Espace d'entrainement au GoLang
+
+Bienvenue sur le repository dédié au GoLang
+
+Richard LALIEU
