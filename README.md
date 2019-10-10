@@ -2,4 +2,8 @@
 
 Bienvenue sur le repository dédié au GoLang
 
-Richard LALIEU
+## Variables
+
+Fichier : variables.go
+
+Created by Richard LALIEU
