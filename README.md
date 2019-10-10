@@ -2,7 +2,7 @@
 
 Bienvenue sur le repository dédié au GoLang
 
-## Variables
+# Variables
 
 Fichier : variables.go
 
